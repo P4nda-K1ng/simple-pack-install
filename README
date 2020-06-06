@@ -1,0 +1,37 @@
+Hello there, and thank you for downloading
+
+SIMPLE PACKAGE INSTALLER
+
+HOW TO USE
+===================================================
+
+Type in the name of the package (i.e. "ffmpeg"),
+make sure it is spelled correctly, (everything is
+case sensitive) and we will do the rest!
+
+===================================================
+
+WHAT THIS IS
+===================================================
+
+This is simple and lightweight package installer 
+intended for new Linux users who may find command
+line tools daunting and unfamiliar, as well as 
+regular Linux users who don't want to constantly 
+type in terminal for a new package. This is NOT
+for seasoned Linux veterans who are command line
+warriors.
+
+==================================================
+
+DEPENDENCIES
+==================================================
+
+Python 3.0, possibly later if it doesn't work.
+
+==================================================
+
+
+
+
+
