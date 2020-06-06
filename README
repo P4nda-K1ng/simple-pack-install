@@ -8,6 +8,9 @@ HOW TO USE
 Type in the name of the package (i.e. "ffmpeg"),
 make sure it is spelled correctly, (everything is
 case sensitive) and we will do the rest!
+Note: When using this program, it is normal when 
+you see a terminal appear (A.K.A. the scary, 
+rapidly appearing text you see.)
 
 ===================================================
 
@@ -28,6 +31,7 @@ DEPENDENCIES
 ==================================================
 
 Python 3.0, possibly later if it doesn't work.
+Tkinter, for the interface.
 
 ==================================================
 
